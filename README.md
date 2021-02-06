@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Siddhant Sharma</h1>
-<h3 align="center">Your Friendly Neighborhood Science Guy!</h3>
+<h1 align="center"> <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/hello.gif" alt="hello-gif">
+<h2 align="left">Hi 👋, I'm Siddhant Sharma</h2>
+<h3 align="left">Your Friendly Neighborhood Science Guy! ⚡️</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssiddhantsharma" alt="ssiddhantsharma" />
 
 - 🔭 I’m currently working on [Open_Titration](https://github.com/dalevens/OpenTitration)
@@ -10,14 +11,15 @@
 
 - 👨‍💻 All of my projects are available at [https://gitstats.me/ssiddhantsharma](https://gitstats.me/ssiddhantsharma)
 
-- 💬 Ask me about **Front-End, UX/UI, Web Development**
+- 💬 Ask me about **Front-End Dev, UX/UI Research**
 
-- 📫 How to reach me **siddhaantsharma.ss@gmail.com**
+- 📫 Reach out to me [here](mailto:siddhaantsharma.ss@gmail.com)
 
-- ⚡ Fun fact **I am a biological sciences guy, who has a thing for code!**
+- ⚡ Fun fact **I am a bio-chem guy, who has a thing for building computational stuff!**
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ssiddhantsharma&show_icons=true" alt="ssiddhantsharma" /> </p>
+<p align="center"> <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/coder.gif" alt="codergif" /> </p>
 
 <p align="center">
-<a href="https://instagram.com/ssiddhaantsharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ssiddhaantsharma" height="20" width="20" /></a>
+<img src="https://metrics.lecoq.io/ssiddhantsharma" alt="Github Metrics">
 </p>
+
