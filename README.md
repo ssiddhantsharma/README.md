@@ -2,6 +2,7 @@
 <h2 align="left">Hi, I'm Siddhant Sharma <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /></h2>
 <h3 align="left">Your Friendly Neighborhood Science Guy! ⚡️</h3>
   <img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+  <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssiddhantsharma" alt="ssiddhantsharma" />
 
 - 🔭 I’m currently working on [Open_Titration](https://github.com/dalevens/OpenTitration)
@@ -21,7 +22,7 @@
 
 
 <p align="left"> <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssiddhantsharma&show_icons=true&hide_border=true&title_color=fff&text_color=fff&icon_color=fff&bg_color=30,ff4343,ff8f43" /> </p>
-
+<br>
 <p align="left">
 <img src="https://metrics.lecoq.io/ssiddhantsharma" alt="Github Metrics">
 </p>
