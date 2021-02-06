@@ -2,7 +2,7 @@
 <h3 align="center">Your Friendly Neighborhood Science Guy!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssiddhantsharma" alt="ssiddhantsharma" />
 
-- 🔭 I’m currently working on [Reaction-Space Explorer](https://github.com/Reaction-Space-Explorer)
+- 🔭 I’m currently working on [Open_Titration](https://github.com/dalevens/OpenTitration)
 
 - 👯 I’m looking to collaborate on [ncov-vaccine](https://github.com/ncov-vaccine)
 
