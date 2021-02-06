@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddhant Sharma</h1>
 <h3 align="center">Your Friendly Neighborhood Science Guy!</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ssiddhantsharma" alt="ssiddhantsharma" /> </p>
-![Image](d.jpg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ssiddhantsharma" alt="ssiddhantsharma" />
 
 - 🔭 I’m currently working on [Reaction-Space Explorer](https://github.com/Reaction-Space-Explorer)
 
