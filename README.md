@@ -18,11 +18,10 @@
 
 - ⚡ Fun fact **I am a bio-chem guy, who has a thing for building computational stuff!**
 
-<p align="center"> <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/coder.gif" alt="codergif" /> </p>
+<p align="left"> <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssiddhantsharma&show_icons=true&hide_border=true&title_color=fff&text_color=fff&icon_color=fff&bg_color=30,ff4343,ff8f43" /> </p>
 
 <p align="left">
 <img src="https://metrics.lecoq.io/ssiddhantsharma" alt="Github Metrics">
-  <img align="right" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssiddhantsharma&show_icons=true&hide_border=true&title_color=fff&text_color=fff&icon_color=fff&bg_color=30,ff4343,ff8f43" />
 </p>
 
 <details>	
