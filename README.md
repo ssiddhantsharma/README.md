@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [Open_Titration](https://github.com/dalevens/OpenTitration)
 
-- 👯 I’m looking to collaborate on [ncov-vaccine](https://github.com/ncov-vaccine)
-
 - 🤔 I’m looking for help with [happy-birthday](https://github.com/ssiddhantsharma/happy-birthday)
 
 - 👨‍💻 All of my projects are available at [https://gitstats.me/ssiddhantsharma](https://gitstats.me/ssiddhantsharma)
