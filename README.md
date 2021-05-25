@@ -9,7 +9,7 @@
 
 - 🤔 I’m looking for help with [happy-birthday](https://github.com/ssiddhantsharma/happy-birthday)
 
-- 👨‍💻 All of my projects are available at [https://gitstats.me/ssiddhantsharma](https://gitstats.me/ssiddhantsharma)
+- 👨‍💻 All of my projects are available at 
 
 - 💬 Ask me about **Front-End Dev, UX/UI Research**
 
