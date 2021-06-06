@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Open_Titration](https://github.com/dalevens/OpenTitration)
 
-- 🤔 I’m looking for help with [happy-birthday](https://github.com/ssiddhantsharma/happy-birthday)
+<!-- 🤔 I’m looking for help with [happy-birthday](https://github.com/ssiddhantsharma/happy-birthday)<!-->
 
 - 👨‍💻 All of my projects are available at 
 
