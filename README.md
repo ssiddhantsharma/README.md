@@ -20,9 +20,6 @@
 <a href="https://github.com/FanwangMeng/FanwangMeng">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ssiddhantsharma&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" alt="Siddhant's GitHub Stats" />
   </a> </p>
-<p align="left">
-<img src="https://metrics.lecoq.io/ssiddhantsharma" alt="Github Metrics">
-  </p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <details>	
   <summary><b>Social Dilema</b></summary><br>
