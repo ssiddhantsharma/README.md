@@ -19,9 +19,7 @@
 <a href="https://github.com/ssiddhantsharma">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ssiddhantsharma&show_icons=true&theme=radical" />
 </a> <br>
-<a href="https://github.com/ssiddhantsharma">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssiddhantsharma&layout=compact" />
-</a>
+<br>
 <br> 
 <div align="center">
   
