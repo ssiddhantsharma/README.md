@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my publications are available at [Google Scholar](https://scholar.google.co.in/citations?user=zkgwkugAAAAJ&hl=en&oi=ao)
 
-- 💬 Ask me about **Computational Biochemistry, Bioninformatics, and Academia**
+- 💬 Ask me about **Computational Chemistry, Bioinformatics, and Academia**
 
 - 📫 Reach out to me [Email](mailto:siddhaantsharma.ss@gmail.com)
   
