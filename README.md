@@ -16,9 +16,6 @@
 - 📫 Reach out to me [Email](mailto:siddhaantsharma.ss@gmail.com)
   
 ### Programming Skills: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <br/> </br> ![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python) ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blueviolet)  ![](https://img.shields.io/badge/GitHub-Git-informational?style=flat&logo=git&logoColor=white&color=blueviolet)  ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blueviolet)<br/>
-<a href="https://github.com/ssiddhantsharma">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ssiddhantsharma&show_icons=true&theme=radical" />
-</a> <br>
 <br>
 <br> 
 <div align="center">
