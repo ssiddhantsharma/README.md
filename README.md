@@ -22,6 +22,5 @@
   
 
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/5014864231f6045feea2d85de68c6e06/raw/rb-twitter.json)](https://twitter.com/ssiddhant_)
-[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/0f7d9a39bbee15a32d1182669b359dd1/raw/rb-instagram.json)](https://www.instagram.com/ssiddhaantsharam_/)<br>
 </div>  
 </details>
